@@ -1,7 +1,7 @@
 # reactive-q
 *An experimental library for signal-based reactivity in Q-SYS Lua*
 
-Install as a [design resource](https://q-syshelp.qsc.com/#Control_Scripting/External_Lua_Modules.htm).
+[Download](https://github.com/locimation/reactive-q/archive/refs/heads/main.zip) and install as a [design resource](https://q-syshelp.qsc.com/#Control_Scripting/External_Lua_Modules.htm).
 
 
 ## Usage
