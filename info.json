@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "type": "LuaModule",
+    "author": "michael@locimation.com",
+    "description": "Lua library for reactive Q-SYS ",
+    "requiredVersion": "9.5"
+}
